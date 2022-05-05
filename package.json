@@ -44,7 +44,7 @@
     "eleventy-plugin-helmet": "^0.2.2",
     "rocket-preset-code-tabs": "^0.2.4",
     "rocket-preset-custom-elements-manifest": "^0.1.7",
-    "rocket-preset-playground-elements": "^0.1.4",
+    "rocket-preset-playground-elements": "^0.2.2",
     "typescript": "^4.3.5",
     "@web/dev-server-esbuild": "^0.2.14",
     "@web/test-runner": "^0.13.18",
